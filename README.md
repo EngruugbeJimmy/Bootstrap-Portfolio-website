@@ -2,7 +2,7 @@
 # Bootstrap-Portfolio-Project
 In this project, we learned how bootstrap works.
 
-- ![screenshot](/images/bootstrap-v1.png)
+
 - ![screenshot](/images/bootstrap-v2.png)
 - ![screenshot](/images/bootstrap-v3.png)
 - ![screenshot](/images/bootstrap-v4.png)

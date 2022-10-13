@@ -6,9 +6,6 @@ In this project, we learned how bootstrap works.
 - ![screenshot](/images/bootstrap-v2.png)
 - ![screenshot](/images/bootstrap-v3.png)
 - ![screenshot](/images/bootstrap-v4.png)
-## :red_circle: Live Demo
-
-[Live Preview Link]( )
 
 ## :hammer: Built With
 
